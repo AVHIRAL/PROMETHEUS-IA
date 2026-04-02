@@ -1,5 +1,9 @@
 # Prometheus AI
 
+# Téléchargement : https://www.avhiral.com/download/Prometheus.zip
+
+# Modèle GGUF : https://huggingface.co/
+
 **Prometheus AI** est un assistant IA local en Python, développé par **AVHIRAL TE@M**.  
 
 L’application propose une interface Tkinter moderne, le chargement local de modèles **GGUF**, la gestion des conversations, la génération de code, la rédaction de contenus, la prévisualisation de pièces jointes, ainsi que plusieurs options d’optimisation CPU / GPU.
